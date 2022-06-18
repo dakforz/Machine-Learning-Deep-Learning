@@ -1,4 +1,6 @@
 # Machine-Learning&Deep-Learning 
 Prefer to download and visualize with Jupyter Notebook-Ebextensions (clear table of contents provided)
-Name: Project + Project Starting Data 
-Ongoing Project: Private Clinical Dataset (may not be posted here)
+<br> 
+Naming Convention: (1.) Machine Learning or Deep Learning + (2.) Project Name + (3.) Project Starting Data 
+<br> 
+Planning Project: Private Clinical Dataset (may not be posted here)
